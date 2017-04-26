@@ -1,0 +1,9 @@
+C:\Users\Esther\documents\visual studio 2013\Projects\Binary Conversion\Binary Conversion\bin\Debug\Binary Conversion.exe.config
+C:\Users\Esther\documents\visual studio 2013\Projects\Binary Conversion\Binary Conversion\bin\Debug\Binary Conversion.exe
+C:\Users\Esther\documents\visual studio 2013\Projects\Binary Conversion\Binary Conversion\bin\Debug\Binary Conversion.pdb
+C:\Users\Esther\documents\visual studio 2013\Projects\Binary Conversion\Binary Conversion\obj\Debug\Binary_Conversion.Form1.resources
+C:\Users\Esther\documents\visual studio 2013\Projects\Binary Conversion\Binary Conversion\obj\Debug\Binary_Conversion.Properties.Resources.resources
+C:\Users\Esther\documents\visual studio 2013\Projects\Binary Conversion\Binary Conversion\obj\Debug\Binary Conversion.csproj.GenerateResource.Cache
+C:\Users\Esther\documents\visual studio 2013\Projects\Binary Conversion\Binary Conversion\obj\Debug\Binary Conversion.exe
+C:\Users\Esther\documents\visual studio 2013\Projects\Binary Conversion\Binary Conversion\obj\Debug\Binary Conversion.pdb
+C:\Users\Esther\documents\visual studio 2013\Projects\Binary Conversion\Binary Conversion\obj\Debug\Binary Conversion.csprojResolveAssemblyReference.cache
